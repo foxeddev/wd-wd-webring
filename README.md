@@ -4,7 +4,7 @@
 
 A webring of professional web developers and web designers.
 
-[<kbd> <br> Explore <br> </kbd>](https://webring.webdev-webdesign.com/) [<kbd> <br> Join <br> </kbd>](JOINING.md)
+[<kbd> <br> Explore the Webring <br> </kbd>](https://webring.webdev-webdesign.com/) [<kbd> <br> How to join the Webring <br> </kbd>](JOINING.md)
 
 ## What is a Webring?
 
