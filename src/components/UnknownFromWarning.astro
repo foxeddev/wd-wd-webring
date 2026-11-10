@@ -1,6 +1,3 @@
----
----
-
 <aside
   id="unknown-from-warning"
   class="unknown-from-warning"
@@ -14,7 +11,7 @@
 </aside>
 
 <script>
-  import { getCurrentSiteIndex, getWebringUrls } from "../lib/webring-nav";
+  import { getCurrentSiteIndex, getWebringUrls } from "@/lib/webring-nav";
 
   function unknownReferrerLabel(raw: string | null): string | null {
     if (raw == null) return null;
